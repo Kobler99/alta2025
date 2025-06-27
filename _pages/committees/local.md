@@ -20,7 +20,7 @@ sidebar:
    name="Aditya Joshi"
    picture="/assets/images/committee/Aditya_Joshi.jpg"
    site="https://www.unsw.edu.au/staff/aditya-joshi"
-   institution="Lecturer<br>School of Computer Science & Engineering<br>University of New South Wales"
+   institution="Senior Lecturer<br>School of Computer Science & Engineering<br>University of New South Wales"
 %}
 {% include committee-member.html
    name="Mark Dras"
