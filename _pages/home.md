@@ -19,6 +19,7 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
 | 2024-06-02 | The official ALTA 2024 website is launched.
+| 2024-07-07 | The [call for papers](/calls/papers) is released.
 {: .news-table}
 
 
