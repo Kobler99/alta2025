@@ -18,8 +18,8 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 .news-table tr td:nth-child(1) {font-weight: bold; width: 25em; }
 .news-table tr td:nth-child(2) {font-weight: bold; width: 55em; }
 </style>
-| 2024-06-02 | The official ALTA 2024 website is launched.
-| 2024-07-07 | The [call for papers](/calls/papers) is released.
+| 2025-06-02 | The official ALTA 2025 website is launched.
+| 2025-07-07 | The [call for papers](/calls/papers) is released.
 {: .news-table}
 
 
@@ -32,7 +32,7 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 .dates-table tr td:nth-child(3) { width: 35em; }
 .dates-table del { color: #888; }
 </style>
-| Call for Problems for the ALTA 2024 Shared Task closes | TBC | TBC
+| Call for Problems for the ALTA 2025 Shared Task closes | TBC | TBC
 | Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Wednesday | 10 September 2025
 | Paper review period (reviewing) | - | 10 September - 1 October 2025
 | Commitment Deadline for ARR papers | Tuesday | 7th October 2025

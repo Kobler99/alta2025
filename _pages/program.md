@@ -1,7 +1,7 @@
 ---
 title: Conference Program
 layout: single
-excerpt: "ALTA 2024 Conference Program"
+excerpt: "ALTA 2025 Conference Program"
 permalink: /program
 sidebar: false
 toc: false

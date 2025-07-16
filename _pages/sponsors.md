@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 layout: single
-excerpt: "ALTA 2024 Sponsors"
+excerpt: "ALTA 2025 Sponsors"
 permalink: /sponsors/
 sidebar: false
 toc: false
