@@ -54,7 +54,7 @@ sidebar:
 ## Regular members
 {% include committee-member.html
    name="Xiang Dai"
-   picture=""
+   picture="/assets/images/committee/Dai.jpg"
    site="https://people.csiro.au/d/x/dai-dai"
    institution="CSIRO Data61"
    email="dai.dai@csiro.au"

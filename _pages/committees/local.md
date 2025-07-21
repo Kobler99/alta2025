@@ -24,7 +24,7 @@ sidebar:
 %}
 {% include committee-member.html
    name="Mark Dras"
-   picture=""
+   picture="/assets/images/committee/Mark_Dras.jpg"
    site="https://researchers.mq.edu.au/en/persons/mark-dras"
    institution="Professor<br>School of Computing<br>Macquarie University"
 %}
