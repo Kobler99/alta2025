@@ -59,7 +59,9 @@ We invite submissions of three different formats: (1) Original Research Papers, 
 
 We invite the submission of papers on original and unpublished research on all aspects of NLP and CL.
 
-Long papers should be 7-8 pages, and short papers should be 3-4 pages (see further details below). Accepted papers will either be delivered as an oral presentation or as a poster presentation. We only accept poster presentations for participants who are presenting on-site. In addition to the page count requirements, both short and long papers may include unlimited pages of references.
+Long papers should be 7-8 pages, and short papers should be 3-4 pages (see further details below). The format should follow the [ACL Rolling Review guidelines](https://aclrollingreview.org/cfp).
+
+Accepted papers will either be delivered as an oral presentation or as a poster presentation. We only accept poster presentations for participants who are presenting on-site. In addition to the page count requirements, both short and long papers may include unlimited pages of references.
 
 Note that the review process is double-blind, and accordingly, submitted papers should not include the identity of the author(s) and the text should be suitably anonymised, e.g. using third-person wording for self-citations, not providing URLs to your personal website, properly anonymising public repositories, etc. Original research papers will be included in the workshop proceedings, which will be published online in the ACL anthology and the ALTA website. Long papers will be distinguished from short papers in the proceedings.
 
@@ -86,7 +88,7 @@ Original research papers under review for other publication venues or that you i
 
 ## Paper Submission
 
-Authors should submit their papers via OpenReview using the ‘‘ALTA 2025 Workshop Submission’’ button.
+Authors should submit their papers via OpenReview using the ‘‘ALTA 2025 Workshop Submission’’ button (soon to appear [here](https://openreview.net/group?id=ALTA.asn.au&referrer=%5BHomepage%5D(%2F))).
 Note, this will become available closer to the submission deadline.
 
 ## Important Notice Regarding OpenReview Profile Creation
@@ -100,7 +102,7 @@ To avoid any delays, we strongly recommend using an institutional email when cre
 Thank you for your understanding.
 
 ## Formatting Guidelines
-Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files or the Microsoft Word template from <https://github.com/acl-org/acl-style-files>.
+Submissions must follow the two-column ACL format. We therefore strongly recommend you use LaTeX style files from <https://github.com/acl-org/acl-style-files>. That website also provides a Microsoft Word template, which may be used, but be very careful to ensure the formatting is correct (this has been an issue in past years).
 
 ## Paper Length
 Long papers:
@@ -113,12 +115,15 @@ Plus, unlimited pages of references and appendices.
 
 About the appendices: While the appendix length is unlimited, it is essential to notify the authors that reviewers are not required to read it. The main text should be self-explanatory, with the appendix used only to highlight additional details.
 
-Abstracts ideally should be a few paragraphs.
+Abstract submissions ideally should be a few paragraphs. Note, this does not refer to the abstract of a paper, but rather to standa-alone abstracts in the non-archival track.
 
 Industry demonstration proposals should be 1-2 pages.
 
 ## Anonymisation
 
-Short and long papers must be anonymised.
+Short and long paper submissions must be anonymised.
 Abstracts are NOT to be anonymised and must include the author’s/authors’ affiliation.
+
+We follow the post-2024 ARR approach to preprints.
+There is no anonymity period or limitation on posting or discussing non-anonymous preprints while the work is under peer review.
 
