@@ -20,6 +20,7 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 </style>
 | 2025-06-02 | The official ALTA 2025 website is launched.
 | 2025-07-07 | The [call for papers](/calls/papers) is released.
+| 2025-09-07 | The paper submission deadline has been postponed a week. Other dates have been adjusted accordingly.
 {: .news-table}
 
 
@@ -33,13 +34,13 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 .dates-table del { color: #888; }
 </style>
 | Call for Problems for the ALTA 2025 Shared Task closes | TBC | TBC
-| Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Wednesday | 10 September 2025
-| Paper review period (reviewing) | - | 10 September - 1 October 2025
-| Commitment Deadline for ARR papers | Tuesday | 7th October 2025
-| Non-archival paper submission deadline | Tuesday | 7th October 2025
-| Author notification | Sunday | 19 October 2025
-| Camera-ready deadline | Sunday | 2 November 2025
-| Proceedings ready | Saturday | 15 November 2025
+| Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Wednesday | <del>10</del> **17** September 2025
+| Paper review period (reviewing) | - | 17 September - 8 October 2025
+| Commitment Deadline for ARR papers | Wednesday | 8 October 2025
+| Non-archival paper submission deadline | Wednesday | 1 October 2025
+| Author notification | Wednesday | 22 October 2025
+| Camera-ready deadline | Tuesday | 4 November 2025
+| Proceedings ready | Sunday | 16 November 2025
 | Conference (Tutorial) | Wednesday | 26 November 2025
 | Main conference | Thursday-Friday | 27-28 November 2025
 
