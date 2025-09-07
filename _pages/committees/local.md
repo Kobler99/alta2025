@@ -7,6 +7,8 @@ sidebar:
     nav: "committees"
 ---
 
+For any questions, please contact: <alta2025@alta.asn.au>
+
 <h2>General Chair</h2>
 {% include committee-member.html
   name="Jonathan K. Kummerfeld"
