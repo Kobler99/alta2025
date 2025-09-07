@@ -88,8 +88,11 @@ Original research papers under review for other publication venues or that you i
 
 ## Paper Submission
 
-Authors should submit their papers via OpenReview using the ‘‘ALTA 2025 Workshop Submission’’ button (soon to appear [here](https://openreview.net/group?id=ALTA.asn.au&referrer=%5BHomepage%5D(%2F))).
-Note, this will become available closer to the submission deadline.
+Authors should submit their papers via OpenReview:
+
+- [Archival paper submission](https://openreview.net/group?id=ALTA.asn.au/2025/Workshop_Archival)
+- [Non-archival paper submission](https://openreview.net/group?id=ALTA.asn.au/2025/Workshop_Non-Archival)
+- Commitment site for ARR reviews (coming soon)
 
 ## Important Notice Regarding OpenReview Profile Creation
 
