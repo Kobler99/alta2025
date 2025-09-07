@@ -36,8 +36,8 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 | Call for Problems for the ALTA 2025 Shared Task closes | TBC | TBC
 | Paper submission deadline (long/short papers, presentation abstracts, industry demonstrations) | Wednesday | <del>10</del> **17** September 2025
 | Paper review period (reviewing) | - | 17 September - 8 October 2025
-| Commitment Deadline for ARR papers | Wednesday | 8 October 2025
-| Non-archival paper submission deadline | Wednesday | 1 October 2025
+| Commitment Deadline for ARR papers | Tuesday | 7 October 2025
+| Non-archival paper submission deadline | Tuesday | 7 October 2025
 | Author notification | Wednesday | 22 October 2025
 | Camera-ready deadline | Tuesday | 4 November 2025
 | Proceedings ready | Sunday | 16 November 2025
