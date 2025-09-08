@@ -26,6 +26,8 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 
 ## Important Dates
 
+All deadlines are 11:59pm [Anywhere on Earth time](https://time.is/Anywhere_on_Earth).
+
 <style>
 .dates-table { font-size: .8em; }
 .dates-table tr td:nth-child(1) { width: 35em; }
