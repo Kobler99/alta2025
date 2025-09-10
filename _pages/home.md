@@ -36,10 +36,10 @@ All deadlines are 11:59pm [Anywhere on Earth time](https://time.is/Anywhere_on_E
 .dates-table del { color: #888; }
 </style>
 | Call for Problems for the ALTA 2025 Shared Task closes | TBC | TBC
-| [Paper submission](https://openreview.net/group?id=ALTA.asn.au/2025) deadline (long/short papers, presentation abstracts, industry demonstrations) | Wednesday | <del>10</del> **17** September 2025
+| [Paper submission](https://openreview.net/group?id=ALTA.asn.au/2025) deadline (archival long/short papers) | Wednesday | <del>10</del> **17** September 2025
 | Paper review period (reviewing) | - | 17 September - 8 October 2025
 | Commitment Deadline for ARR papers | Tuesday | 7 October 2025
-| Non-archival paper submission deadline | Tuesday | 7 October 2025
+| Non-archival paper submission deadline (abstracts and cross-submission of long/short papers) | Tuesday | 7 October 2025
 | Author notification | Wednesday | 22 October 2025
 | Camera-ready deadline | Tuesday | 4 November 2025
 | Proceedings ready | Sunday | 16 November 2025
