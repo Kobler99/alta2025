@@ -16,13 +16,13 @@ main:
     url: /venue
 
 #  - title: "Registration"
-#    url: https://events.humanitix.com/alta-2024?hxchl=hex-qrc&hxref=evt
+#    url: https://events.humanitix.com/alta-2025?hxchl=hex-qrc&hxref=evt
 
   - title: "Sponsors"
     url: /sponsors
    
-#  - title: "Shared Task"
-#    url: https://www.alta.asn.au/events/sharedtask2024/
+  - title: "Shared Task"
+    url: https://www.alta.asn.au/events/sharedtask2025/
   
   - title: "Committees"
     url: /committees/local
@@ -39,9 +39,9 @@ main:
 calls:
   - title: "calls for"
     children:
-      - title: "ALTA 2024 Papers"
+      - title: "ALTA 2025 Papers"
         url: /calls/papers
-      - title: "ALTA 2024 Shared Task"
+      - title: "ALTA 2025 Shared Task"
         url: /calls/shared_task
 
 committees:
