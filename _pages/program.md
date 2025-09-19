@@ -19,9 +19,8 @@ toc_label: "&nbsp;Program"
     }
 </style>
 
-Time Zone: AEDT (UTC+11)
+Details to be announced.
 
-[Join the ALTA Slack to stay connected, we're in the `#ALTA2025` channel](https://join.slack.com/t/alta-nlp/shared_invite/zt-2unu7ju1c-V52yq~q~etCpPIFjAMNPbQ)
-
-To be confirmed.
+Registration will open in October and be free for students.
+The anticipated charge for non-students will be small (at most $200).
 
