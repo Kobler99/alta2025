@@ -21,5 +21,5 @@ toc_sticky: true
 The following speakers have graciously agreed to give public lecture, keynotes, and panel discussion at ALTA 2025.
 
 - Prof. Alistair Knott - School of Engineering and Computer Science, Victoria University of Wellington
-- TBC
+- Prof. Mark Johnson - School of Computing, Macquarie University and Chief AI Scientist, Oracle
 
