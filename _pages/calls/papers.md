@@ -75,6 +75,7 @@ Submissions should include the presentation title and abstract, the name of the 
 - Established academics giving an overview of an exciting paper or paper/s published in international venues
 - Completing research students giving an overview of their thesis work
 - Early candidature research students presenting their work in progress and ideas that may not have been published
+- Industry submissions that are not intended to be archival
 
 Presentation abstracts should not be anonymised, any publications relating to the work should be cited in the submission, and the person who will give the presentation should be clearly stated.
 
