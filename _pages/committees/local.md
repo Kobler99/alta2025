@@ -68,7 +68,7 @@ For any questions, please contact: <alta2025@alta.asn.au>
 %}
 {% include committee-member.html
    name="Thomas Elton"
-   picture=""
+   picture="/assets/images/committee/Thomas_Elton.jpg"
    site="https://tjelton.com/about-me/"
    institution="Honours Student<br>School of Computer Science<br>The University of Sydney"
    email=""
