@@ -23,7 +23,7 @@ Regisration will open in October with no charge for students.
 | 2025-06-02 | The official ALTA 2025 website is launched.
 | 2025-07-07 | The [call for papers](/calls/papers) is released.
 | 2025-09-07 | The [paper submission](https://openreview.net/group?id=ALTA.asn.au/2025) deadline has been postponed a week. Other dates have been adjusted accordingly.
-| 2025-09-25 | The [tutorial](/program) has been announced.
+| 2025-09-25 | The [tutorial](/programme) has been announced.
 {: .news-table}
 
 
