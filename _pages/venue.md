@@ -47,3 +47,4 @@ Students coming to ALTA25 can arrange for $14 parking at the nearby Broadway Sho
 
 There are many hotels around the University of Sydney, and in Sydney city in general. We recommend choosing a hotel near a rail line that goes to Redfern station, as Redfern station is a short walk from the conference venue.
 
+For staying within walking distance, one good option is Adina Apartment Hotel Sydney Chippendale.
