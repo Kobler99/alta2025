@@ -15,8 +15,8 @@ main:
   - title: "Venue"
     url: /venue
 
-#  - title: "Registration"
-#    url: https://events.humanitix.com/alta-2025?hxchl=hex-qrc&hxref=evt
+  - title: "Registration"
+    url: https://events.humanitix.com/alta-2025
 
   - title: "Sponsors"
     url: /sponsors

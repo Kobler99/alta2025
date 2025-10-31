@@ -9,9 +9,9 @@ excerpt: "Sydney<br>November 26 - 28, 2025"
 ---
 ## Welcome!
 
-The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA 2025) will take place at **[The University of Sydney](https://www.sydney.edu.au/) (USyd), Sydney, Australia** from the **26th to the 28th of November, 2025**. ALTA 2025 will largely operate as an offline conference this year, with limited online/hybrid capability.
+The 23rd Annual Workshop of the Australasian Language Technology Association (ALTA 2025) will take place at **[The University of Sydney](https://www.sydney.edu.au/) (USyd), Sydney, Australia** from the **26th to the 28th of November, 2025**. The workshop is the key local forum for research results in natural language processing and computational linguistics, with presentations from students, industry, and academic researchers. ALTA 2025 will operate as an in-person offline conference this year.
 
-Regisration will open in October with no charge for students.
+Register [here](https://events.humanitix.com/alta-2025)!
 
 ## News
 
@@ -25,6 +25,7 @@ Regisration will open in October with no charge for students.
 | 2025-09-07 | The [paper submission](https://openreview.net/group?id=ALTA.asn.au/2025) deadline has been postponed a week. Other dates have been adjusted accordingly.
 | 2025-09-25 | The [tutorial](/programme) has been announced.
 | 2025-10-25 | The [accepted papers](/papers) have been announced.
+| 2025-10-31 | [Registration](https://events.humanitix.com/alta-2025) is now open.
 {: .news-table}
 
 
