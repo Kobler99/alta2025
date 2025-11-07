@@ -13,6 +13,8 @@ The 23rd Annual Workshop of the Australasian Language Technology Association (AL
 
 Register [here](https://events.humanitix.com/alta-2025)!
 
+For students who are the first author of an accepted paper, we intend to provide some financial support if you are traveling from outside of Sydney. Please register by November 10th to be considered.
+
 ## News
 
 <style>
@@ -26,6 +28,7 @@ Register [here](https://events.humanitix.com/alta-2025)!
 | 2025-09-25 | The [tutorial](/programme) has been announced.
 | 2025-10-25 | The [accepted papers](/papers) have been announced.
 | 2025-10-31 | [Registration](https://events.humanitix.com/alta-2025) is now open.
+| 2025-11-05 | Postponed the camera-ready deadline by a day due to a configuration issue, and added notes on travel support for students.
 {: .news-table}
 
 
@@ -46,7 +49,7 @@ All deadlines are 11:59pm [Anywhere on Earth time](https://time.is/Anywhere_on_E
 | [Commitment](https://openreview.net/group?id=ALTA.asn.au/2025/Workshop_ARR_Commitment) Deadline for ARR papers | Tuesday | 7 October 2025
 | [Non-archival paper submission](https://openreview.net/group?id=ALTA.asn.au/2025/Workshop_Non-Archival) deadline (abstracts, cross-submission of long/short papers, and industry papers) | Tuesday | 7 October 2025
 | Author notification | Wednesday | 22 October 2025
-| Camera-ready deadline | Tuesday | 4 November 2025
+| Camera-ready deadline | Tuesday | <del>4</del> **5** November 2025
 | Proceedings ready | Sunday | 16 November 2025
 | Conference (Tutorial) | Wednesday | 26 November 2025
 | Main conference | Thursday-Friday | 27-28 November 2025

@@ -19,8 +19,7 @@ toc_label: "&nbsp;Programme"
     }
 </style>
 
-Registration will open in October and be free for students.
-The anticipated charge for non-students will be small (at most $200).
+Registration is now [open](https://events.humanitix.com/alta-2025).
 
 # Wednesday November 26th
 
