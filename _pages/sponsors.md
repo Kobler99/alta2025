@@ -15,7 +15,7 @@ gold:
     title: Google
 silver:
   - url: https://www.amazon.com/
-    image_path: /assets/images/sponsors/amazon.png
+    image_path: /assets/images/sponsors/amazon.svg
     alt: Amazon
     title: Amazon
   - url: https://www.mongodb.com/
@@ -24,7 +24,7 @@ silver:
     title: MongoDB
 bronze:
   - url: https://www.ge.com/
-    image_path: /assets/images/sponsors/ge.png
+    image_path: /assets/images/sponsors/ge.svg
     alt: GE
     title: GE
   - url: https://www.unimelb.edu.au/
