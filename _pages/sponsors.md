@@ -6,8 +6,36 @@ permalink: /sponsors/
 sidebar: false
 toc: false
 toc_sticky: true
-toc_label: "&nbsp;Sponsorship Tier"
+toc_label: " Sponsorship Tier"
 
+gold:
+  - url: https://www.google.com/
+    image_path: /assets/images/sponsors/google.svg
+    alt: Google
+    title: Google
+silver:
+  - url: https://www.amazon.com/
+    image_path: /assets/images/sponsors/amazon.svg
+    alt: Amazon
+    title: Amazon
+  - url: https://www.mongodb.com/
+    image_path: /assets/images/sponsors/mongodb.png
+    alt: MongoDB
+    title: MongoDB
+bronze:
+  - url: https://www.ge.com/
+    image_path: /assets/images/sponsors/ge.svg
+    alt: GE
+    title: GE
+  - url: https://www.unimelb.edu.au/
+    image_path: /assets/images/sponsors/university-of-melbourne.svg
+    alt: University of Melbourne
+    title: University of Melbourne
+host:
+  - url: https://www.sydney.edu.au/
+    image_path: /assets/images/sponsors/usyd.png
+    alt: University of Sydney
+    title: University of Sydney
 ---
 
 <style>
@@ -33,3 +61,32 @@ toc_label: "&nbsp;Sponsorship Tier"
 
 For a copy of our sponsorship prospectus, please reach out to our Sponsorship Chair, [Mr Yidong Gan](mailto:yidong.gan@sydney.edu.au?Subject=Sponsorship inquiry from ALTA 2025 website). 
 
+ALTA 2025 is extremely grateful to all sponsors. We simply couldn't run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
+
+<!-- ## Platinum Sponsor -->
+
+<!-- {% include sponsors-list.html id="platinum" layout="third" %} -->
+
+## Gold Sponsor
+
+{% include sponsors-list.html id="gold" layout="third" %}
+
+## Silver Sponsor
+
+{% include sponsors-list.html id="silver" layout="third" %}
+
+## Bronze Sponsor
+
+{% include sponsors-list.html id="bronze" layout="third" %}
+
+## Host Sponsor
+
+{% include sponsors-list.html id="host" layout="third" %}
+
+<!-- ## Event Sponsors
+
+{% include sponsors-list.html id="event" layout="minimum" %} -->
+
+<!-- ## Diversity and Inclusion: Champion
+
+{% include sponsors-list.html id="di_champion" layout="third" %} -->
