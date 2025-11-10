@@ -6,7 +6,7 @@ permalink: /sponsors/
 sidebar: false
 toc: false
 toc_sticky: true
-toc_label: " Sponsorship Tier"
+toc_label: "&nbsp;Sponsorship Tier"
 
 gold:
   - url: https://www.google.com/
@@ -14,19 +14,19 @@ gold:
     alt: Google
     title: Google
 silver:
-  - url: https://www.amazon.com/
+  - url: https://nova.amazon.com/
     image_path: /assets/images/sponsors/amazon.svg
-    alt: Amazon
-    title: Amazon
+    alt: Amazon Nova
+    title: Amazon Nova
   - url: https://www.mongodb.com/
     image_path: /assets/images/sponsors/mongodb.png
     alt: MongoDB
     title: MongoDB
 bronze:
-  - url: https://www.ge.com/
+  - url: https://www.geaerospace.com/
     image_path: /assets/images/sponsors/ge.svg
-    alt: GE
-    title: GE
+    alt: GE Aerospace
+    title: GE Aerospace
   - url: https://www.unimelb.edu.au/
     image_path: /assets/images/sponsors/university-of-melbourne.svg
     alt: University of Melbourne
