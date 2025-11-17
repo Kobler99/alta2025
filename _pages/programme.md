@@ -8,6 +8,16 @@ toc: false
 toc_sticky: false
 toc_label: "&nbsp;Programme"
 ---
+<style>
+    .half {
+    width: 50%;
+    height: 50%
+    }
+    .smaller {
+    width: 40%;
+    height: 40%
+    }
+</style>
 
 Registration is now [open](https://events.humanitix.com/alta-2025).
 
