@@ -77,35 +77,32 @@ Details coming soon!
 * 10:00: Keynote #1 - Alistair Knott
 * 11:00: Morning Tea
 * 11:30: Session #2 - Oral Presentations (Topic: Robustness and Safety of Language Models, Session Chair: Aditya)
-  * Robustness of Neurosymbolic Reasoners on First-Order Logic Problems
+  * [Robustness of Neurosymbolic Reasoners on First-Order Logic Problems](/assets/papers/1.pdf)
     * Lead Author: Hannah Bansal
     * Time: 15 minutes
-  * A Dataset and Benchmark on Extraction of Novel Concepts on Trust in AI from Scientific Literature
+  * [A Dataset and Benchmark on Extraction of Novel Concepts on Trust in AI from Scientific Literature](/assets/papers/11.pdf)
     * Lead Author: Melanie McGrath
     * Time: 15 minutes
-  * SHIELD: Classifier-Guided Prompting for Robust and Safer LVLMs
+  * [SHIELD: Classifier-Guided Prompting for Robust and Safer LVLMs](/assets/papers/6.pdf)
     * Lead Author: Juan Ren
     * Time: 15 minutes
-  * Some Odd Adversarial Perturbations and the Notion of Adversarial Closeness
+  * [Some Odd Adversarial Perturbations and the Notion of Adversarial Closeness](/assets/papers/2.pdf)
     * Lead Author: Shakila Mahjabin Tonni
     * Time: 15 minutes
 * 12:30: Light Lunch
 * 14:00: Panel Discussion - "Teaching NLP/Using NLP for Teaching" (Moderator: Aditya Joshi)
 * 15:00: Afternoon Tea
 * 15:30: Session #3 - Oral Presentations (Topic: Multimodality and Language)
-  * Advanced Phonetic Insights into Vowels via Band-Limited Cepstral Analysis
-    * Lead Author: Michael Lambropoulos
-    * Time: 15 minutes
   * Graph-Score: A Graph-grounded Metric for Audio Captioning
     * Lead Author: Manh Luong
     * Time: 15 minutes
-  * MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning
+  * [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](/assets/papers/10.pdf)
     * Lead Author: Ye Bai
     * Time: 15 minutes
-  * Thinker-DDM: Modeling Deliberation for Machine Translation with a Drift-Diffusion Process
+  * [Thinker-DDM: Modeling Deliberation for Machine Translation with a Drift-Diffusion Process](/assets/papers/4.pdf)
     * Lead Author: Hongbin Na
     * Time: 15 minutes
-  * Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features
+  * [Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features](/assets/papers/7.pdf)
     * Lead Author: Simon Gonzalez
     * Time: 15 minutes
 * 16:45: Session #4 - Lightning Talks (Topic: Hallucination & Vulnerabilities)
@@ -145,35 +142,35 @@ Details coming soon!
     * Presenter: Avi Bleiweiss
     * Time: 5 minutes
 * 09:30: Session #6 - Oral Presentations (Topic: Language Generation)
-  * Nek Minit: Harnessing Pragmatic Metacognitive Prompting for Explainable Sarcasm Detection of Australian and Indian English
+  * [Nek Minit: Harnessing Pragmatic Metacognitive Prompting for Explainable Sarcasm Detection of Australian and Indian English](/assets/papers/3.pdf)
     * Lead Author: Ishmanbir Singh
     * Time: 15 minutes
-  * Can an LLM Elicit Information from Users in Simple Optimization Modelling Dialogues?
+  * [Can an LLM Elicit Information from Users in Simple Optimization Modelling Dialogues?](/assets/papers/5.pdf)
     * Lead Author: Yelaman Abdullin
     * Time: 15 minutes
-  * Simple and Effective Baselines for Code Summarisation Evaluation
+  * [Simple and Effective Baselines for Code Summarisation Evaluation](/assets/papers/9.pdf)
     * Lead Author: Jade Robinson
     * Time: 15 minutes
 * 10:30: Morning Tea
 * 11:00: Session #7 - Oral Presentations (Topic: Language Understanding)
-  * An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry
+  * [An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry](/assets/papers/8.pdf)
     * Lead Author: XUNGANG GU
     * Time: 15 minutes
-  * LLMs for Argument Mining: Detection, Extraction, and Relationship Classification of pre-defined Arguments in Online Comments
+  * [LLMs for Argument Mining: Detection, Extraction, and Relationship Classification of pre-defined Arguments in Online Comments](/assets/papers/12.pdf)
     * Lead Author: Matteo Guida
     * Time: 15 minutes
 * 11:30: Session #8 - Oral Presentations (Topic: Shared Task - Normalise Adverse Drug Events, Session Chair: Diego Molla)
-  * Overview of the 2025 ALTA Shared Task: Normalise Adverse Drug Events
+  * [Overview of the 2025 ALTA Shared Task: Normalise Adverse Drug Events](/assets/papers/st_1.pdf)
     * Lead Author: Diego Molla
-  * Team MonoLink at the ALTA Shared Task 2025: Synonym-Aware Retrieval
+  * [Team MonoLink at the ALTA Shared Task 2025: Synonym-Aware Retrieval](/assets/papers/st_2.pdf)
     * Lead Author: James C. Douglas
-  * A Hybrid System for Comprehensive and Consistent Automated MedDRA
+  * [A Hybrid System for Comprehensive and Consistent Automated MedDRA](/assets/papers/st_3.pdf)
     * Lead Author: Abir Naskar
-  * SCaLER@ALTA 2025: Hybrid and Bi-Encoder Approaches for Adverse Drug
+  * [SCaLER@ALTA 2025: Hybrid and Bi-Encoder Approaches for Adverse Drug](/assets/papers/st_4.pdf)
     * Lead Author: Shelke Akshay Babasaheb
-  * DRAGON: Dual-Encoder Retrieval with Guided Ontology Reasoning for Me
+  * [DRAGON: Dual-Encoder Retrieval with Guided Ontology Reasoning for Me](/assets/papers/st_5.pdf)
     * Lead Author: Dao Sy Duy Minh
-  * A Hybrid Retrieval System for Adverse Event Concept Normalization Integr
+  * [A Hybrid Retrieval System for Adverse Event Concept Normalization Integr](/assets/papers/st_6.pdf)
     * Lead Author: Saipriya Dipika Vaidyanathan
 * 12:30: Lunch
 * 14:00: Keynote #2 - Mark Johnson
