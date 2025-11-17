@@ -29,9 +29,6 @@ Juan Ren, Mark Dras, Usman Naseem
 Understanding Multilingual ASR Systems: The Role of Language Families and Typological Features\
 Simon Gonzalez, Simon Gonzalez, Tao Hoang, Maria Myung-Hee Kim, Jennifer Biggs, Tim Cawley
 
-Advanced Phonetic Insights into Vowels via Band-Limited Cepstral Analysis\
-Michael Lambropoulos, Shunichi Ishihara, Frantz Clermont
-
 An LLM-based Framework for Domain-Specific Information Extraction: A Case Study in Computer Science and Chemistry\
 XUNGANG GU, Yangjie Tian, lining, Meng Liu, Ruohua Xu, He Zhang, Hanqiu Liu, Yongpan Sheng, Ming Liu
 
